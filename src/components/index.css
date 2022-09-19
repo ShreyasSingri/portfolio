@@ -1,0 +1,104 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    background-color: #282c34;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+}
+
+.name{
+    padding-left: 20px;
+}
+
+.menu{
+    display: flex;
+    align-self: center;
+}
+.menu div, img {
+    padding-right: 20px;
+}
+
+.info{
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    background-color: transparent;
+    border: 2px solid darkcyan;
+    color: white;
+    font-size: medium;
+    cursor: pointer;
+}
+button:hover {
+    background-color: darkcyan;
+}
+
+table {
+    padding: 20px;
+    width: 100%;
+}
+tr, td {
+    padding: 20px;
+}
+
+.quote{
+    max-width: 30%;
+    text-align: right;
+    font-size: xx-large;
+    font-family: 'Brush Script MT', cursive;
+    float: right;
+}
+
+.card {
+    border: 2px solid gold;
+    background-color: rgba(0, 0, 0, 0.8);
+    margin: 10px;
+    float: left;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.detailCard {
+    border: 2px solid gold;
+    background-color: rgba(255, 215, 0, 0.8);
+    margin: 10px;
+    float: left;
+    height: 220px;
+    width: 400px;
+    text-align: center;
+    justify-content: center;
+}
+
+.detailCard p {
+    white-space: pre-wrap;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.detailName{
+    margin: 5px;
+}
+
+.logo{
+    padding: 10px;
+}
+
+.cardBody{
+    height: 90%;
+    width: 95%;
+    align-items: center;
+}
+
+.foot{
+    height: 54px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #282c34;
+    color: white;
+}

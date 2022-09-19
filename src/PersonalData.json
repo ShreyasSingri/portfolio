@@ -1,0 +1,369 @@
+{
+    "Name": "Shreyas S.M",
+    "HeaderMenu": [
+        {
+            "label": "About",
+            "value": "about"
+        },
+        {
+            "label": "Skills",
+            "value": "skill"
+        },
+        {
+            "label": "Projects",
+            "value": "project"
+        },
+        {
+            "label": "Certificates",
+            "value": "certificate"
+        },
+        {
+            "label": "Contact",
+            "value": "contact"
+        }
+    ],
+    "Pages": {
+        "about": {
+            "type": "Info",
+            "title": "Hello,",
+            "subtitle": "I am Shreyas S.M",
+            "table": [
+                [
+                    "Full Stack Developer",
+                    "“Jack of all trades is a master of none, but oftentimes better than a master of one.”"
+                ]
+            ],
+            "download": {
+                "buttonName": "Download Resume",
+                "fileName": "resume.pdf"
+            }
+        },
+        "skill": {
+            "type": "Card",
+            "cards": [
+                {
+                    "name": "React",
+                    "icon": "react.png",
+                    "url": "https://reactjs.org"
+                },
+                {
+                    "name": "Redux",
+                    "icon": "redux.png",
+                    "url": "https://redux.js.org"
+                },
+                {
+                    "name": "JavaScript",
+                    "icon": "js.png",
+                    "url": "https://en.wikipedia.org/wiki/JavaScript"
+                },
+                {
+                    "name": "HTML5",
+                    "icon": "html.png",
+                    "url": "https://en.wikipedia.org/wiki/HTML5"
+                },
+                {
+                    "name": "CSS3",
+                    "icon": "css.png",
+                    "url": "https://en.wikipedia.org/wiki/CSS"
+                },
+                {
+                    "name": "NPM",
+                    "icon": "npm.png",
+                    "url": "https://github.com/npm/cli"
+                },
+                {
+                    "name": "Bootstrap",
+                    "icon": "bootstrap.png",
+                    "url": "https://getbootstrap.com"
+                },
+                {
+                    "name": "Git",
+                    "icon": "git.png",
+                    "url": "https://git-scm.com"
+                },
+                {
+                    "name": "Heroku",
+                    "icon": "heroku.png",
+                    "url": "https://www.heroku.com"
+                },
+                {
+                    "name": "Netlify",
+                    "icon": "netlify.png",
+                    "url": "https://www.netlify.com"
+                },
+                {
+                    "name": "SQL",
+                    "icon": "sql.png",
+                    "url": "https://en.wikipedia.org/wiki/SQL"
+                },
+                {
+                    "name": "Python",
+                    "icon": "python.png",
+                    "url": "https://www.python.org"
+                },
+                {
+                    "name": "Django",
+                    "icon": "django.png",
+                    "url": "https://www.djangoproject.com"
+                },
+                {
+                    "name": "Flask",
+                    "icon": "flask.png",
+                    "url": "https://palletsprojects.com/p/flask"
+                },
+                {
+                    "name": "Java",
+                    "icon": "java.png",
+                    "url": "https://www.java.com/en/"
+                },
+                {
+                    "name": "Tkinter",
+                    "icon": "tkinter.png",
+                    "url": "https://tkdocs.com/index.html"
+                },
+                {
+                    "name": "ReportLab",
+                    "icon": "reportlab.png",
+                    "url": "https://docs.reportlab.com"
+                },
+                {
+                    "name": "Numpy",
+                    "icon": "numpy.png",
+                    "url": "https://numpy.org/"
+                },
+                {
+                    "name": "Pandas",
+                    "icon": "pandas.png",
+                    "url": "https://pandas.pydata.org/"
+                },
+                {
+                    "name": "Scikit Learn",
+                    "icon": "scikit.png",
+                    "url": "https://scikit-learn.org/stable"
+                },
+                {
+                    "name": "Matplotlib",
+                    "icon": "matplotlib.png",
+                    "url": "https://matplotlib.org"
+                },
+                {
+                    "name": "Tensorflow",
+                    "icon": "tensorflow.png",
+                    "url": "https://www.tensorflow.org"
+                },
+                {
+                    "name": "Keras",
+                    "icon": "keras.png",
+                    "url": "https://keras.io"
+                },
+                {
+                    "name": "OpenCV",
+                    "icon": "opencv.png",
+                    "url": "https://opencv.org"
+                },
+                {
+                    "name": "Linux",
+                    "icon": "linux.png",
+                    "url": "https://keras.io"
+                },
+                {
+                    "name": "Windows",
+                    "icon": "windows.png",
+                    "url": "https://opencv.org"
+                }
+            ]
+        },
+        "project": {
+            "type": "Card",
+            "cards": [
+                {
+                    "name": "Calpha",
+                    "description": "Project Client : InstaCal Engineers Pvt Ltd. \nCalpha is a python based application for Machine Calibration.\n It provides a platform to digitalize, track and automate the manual process by reducing human error and providing better synchronization."
+                },
+                {
+                    "name": "Autonomous Car Simulation using CARLA",
+                    "description": "A level 5 autonomous car is developed to drive in CARLA simulator. \nThe car uses a vivid range of sensors like RGBD Camera, RADAR, LIDAR, Ultrasound, IMU and GNSS.",
+                    "url": "Autonomous Car.pdf"
+                },
+                {
+                    "name": "Image recognition and classifier",
+                    "description": "The project is based on Convolutional Neural Network implementing a basic classifier machine learning model that was trained on 8000 images of dogs and cats and tested on 2000 images resulting an accuracy of 82.5%."
+                },
+                {
+                    "name": "Hospital Management",
+                    "url": "https://github.com/KABIR09/Open_HMS",
+                    "description": "It is a web-django application for hospitals to track their patients, records, medication and appointments."
+                },
+                {
+                    "name": "Portfolio",
+                    "url": "https://github.com/ShreyasSingri/portfolio",
+                    "description": "This is a complete ReactJS based project that provides a portfolio to anyone."
+                },
+                {
+                    "name": "Chat Room",
+                    "url": "https://github.com/ShreyasSingri/chatroom-react-flask",
+                    "description": "It is a chat room developed "
+                },
+                {
+                    "name": "Stock Management System",
+                    "description": "It is a web-SQL project developed to override the problems the prevailing in managing information of the investors of a company."
+                },
+                {
+                    "name": "State Budget Management",
+                    "description": "The State Budget system is a file-based application. It provides a way for the government to handle their financial resources."
+                }
+            ]
+        },
+        "certificate": {
+            "type": "Card",
+            "cards": [
+                {
+                    "name": "2nd Place in Decode IT",
+                    "url": "Decode IT.jpeg",
+                    "highlight": true,
+                    "description": "Certificate of Excellence for securing Second place at SANKALP\" 19."
+                },
+                {
+                    "name": "2nd Place in Hackathon",
+                    "url": "Hackathon.jpeg",
+                    "highlight": true,
+                    "description": "It is a web-django application for hospitals to track their patients, records, medication and appointments."
+                },
+                {
+                    "name": "Runner up in Treasure Hunt",
+                    "highlight": true,
+                    "description": "It is a web-django application for hospitals to track their patients, records, medication and appointments."
+                },
+                {
+                    "name": "Introduction to Augmented Reality and ARCore",
+                    "url": "https://www.coursera.org/account/accomplishments/certificate/49LLRSME28GF",
+                    "description": "Certified by Daydream by Google"
+                },
+                {
+                    "name": "Crash Course on Python",
+                    "url": "https://www.coursera.org/account/accomplishments/certificate/64E5B5MCDGZ8",
+                    "description": "Certified by Google"
+                },
+                {
+                    "name": "Introduction to Self-Driving Cars",
+                    "url": "https://www.coursera.org/account/accomplishments/verify/M2G7QL5EHDMS",
+                    "description": "Certified by University of Toronto"
+                },
+                {
+                    "name": "New Models of Business in Society",
+                    "url": "https://www.coursera.org/account/accomplishments/certificate/64E5B5MCDGZ8",
+                    "description": "Certified by Google"
+                },
+                {
+                    "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+                    "url": "http://ude.my/UC-0f422ee2-93da-464a-876e-026040ed32e9",
+                    "description": "Certified by Udemy"
+                },
+                {
+                    "name": "PID Control with Arduino",
+                    "url": "http://ude.my/UC-25ba3879-6ac0-4a09-9172-e2f71dba7516",
+                    "description": "Certified by Udemy"
+                },
+                {
+                    "name": " Blockchain Web Development on Ethereum",
+                    "url": "http://ude.my/UC-ea74254f-3dd0-407b-94d2-9ff18c671d1b",
+                    "description": "Certified by Udemy"
+                },
+                {
+                    "name": "Build Python Web Apps with Django Skill Path",
+                    "url": "https://www.codecademy.com/profiles/micro8112091120/certificates/607878ed81004d0017706259",
+                    "description": "Certified by Codecademy"
+                },
+                {
+                    "name": "Learn JavaScript Course",
+                    "url": "https://www.codecademy.com/profiles/micro8112091120/certificates/705dcb15de0da4dd9d9fc4f3274b430e",
+                    "description": "Certified by Codecademy"
+                },
+                {
+                    "name": "Deploying with Netlify and Heroku Course",
+                    "url": "https://www.codecademy.com/profiles/micro8112091120/certificates/6156c9bebf9046929b95afa8fa67ffd5",
+                    "description": "Certified by Codecademy"
+                },
+                {
+                    "name": "Design Databases With PostgreSQL Skill Path",
+                    "url": "https://www.codecademy.com/profiles/micro8112091120/certificates/5f64e3b492de0000131ecbe0",
+                    "description": "Certified by Codecademy"
+                },
+                {
+                    "name": "How to Deploy a Website Course",
+                    "url": "https://www.codecademy.com/profiles/micro8112091120/certificates/358e250fca144526a6b2934ff44fbc01",
+                    "description": "Certified by Codecademy"
+                },
+                {
+                    "name": "Learn Git Course",
+                    "url": "https://www.codecademy.com/profiles/micro8112091120/certificates/a8ab218d5950c29861635cc0bf12fd13",
+                    "description": "Certified by Codecademy"
+                },
+                {
+                    "name": "Learn Intermediate Python 3 Course",
+                    "url": "https://www.codecademy.com/profiles/micro8112091120/certificates/18580789eaba28f09e116f4fc2acec44",
+                    "description": "Certified by Codecademy"
+                },
+                {
+                    "name": "Learn Python 3 Course",
+                    "url": "https://www.codecademy.com/profiles/micro8112091120/certificates/6c152bd262967f8c941c9707ed636bda",
+                    "description": "Certified by Codecademy"
+                },
+                {
+                    "name": "Learn SQL Course",
+                    "url": "https://www.codecademy.com/profiles/micro8112091120/certificates/042a4e5884e3eb6ea1f2a12be6abb851",
+                    "description": "Certified by Codecademy"
+                },
+                {
+                    "name": "Machine Learning and Artificial Intelligence Workshop",
+                    "url": "ML iisc.jpeg",
+                    "description": "Certificate of Participitation of a workshop at IISc Bangalore."
+                },
+                {
+                    "name": "Photography",
+                    "url": "Photography.pdf",
+                    "description": "Certificate of Participitation of a photography event on the occassion of World Tourism Day."
+                },
+                {
+                    "name": "OOP with C++ and Hands on - Eclipse / Netbeans Tool",
+                    "url": "OOPS with C++.jpeg",
+                    "description": "Certificate of Participitation of a workshop at Sathhagiri College of Engineering"
+                }
+            ]
+        },
+        "contact": {
+            "type": "Info",
+            "title": "Contact Information",
+            "table": [
+                [
+                    "Name",
+                    "Shreyas S.M"
+                ],
+                [
+                    "Address",
+                    "149/B, 29th cross, 2nd block, Rajajinagar, Bangalore - 560010."
+                ],
+                [
+                    "Phone No",
+                    "+91 98860 31116"
+                ],
+                [
+                    "Email",
+                    "shreyassingri@gmail.com"
+                ]
+            ]
+        }
+    },
+    "SocialMedia": [
+        {
+            "label": "Github",
+            "link": "https://github.com/ShreyasSingri",
+            "icon": "GitHub.png"
+        },
+        {
+            "label": "LinkedIn",
+            "link": "https://www.linkedin.com/in/shreyas-singri-169a781b2",
+            "icon": "LinkedIn.png"
+        }
+    ]
+}
