@@ -1,7 +1,9 @@
 # Portfolio Site
 
+URL: [Link](https://shreyassingri.github.io/portfolio/)
+
 This is a complete ReactJS based project that provides a portfolio to anyone.
-The complete user data is in [JSON file](src\PersonalData.json) and [Assets directory](src\Assets).
+The complete user data is in [JSON file](https://github.com/ShreyasSingri/portfolio/blob/main/src/PersonalData.json) and [Assets directory](https://github.com/ShreyasSingri/portfolio/tree/main/src/Assets).
 
 ![Screenshot](Screenshot.jpg)
 

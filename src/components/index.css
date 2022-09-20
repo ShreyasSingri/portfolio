@@ -1,4 +1,4 @@
-.head{
+.head {
     display: flex;
     justify-content: space-between;
     background-color: #282c34;
@@ -7,30 +7,47 @@
     color: white;
 }
 
-.name{
+.name {
     padding-left: 20px;
 }
 
-.menu{
+.menu {
     display: flex;
     align-self: center;
 }
-.menu div, img {
+
+.menu div,
+img {
     padding-right: 20px;
 }
 
-.info{
+.dropMenu{
+    display: none;
+    align-self: center;
+    margin-right: 20px;
+}
+
+.dropMenu select {
+    background-color: #282c34;
+    padding: 2px;
+    color: white;
+    border: 1px solid white;
+}
+
+.info {
     text-align: center;
 }
 
-button{
+button {
     padding: 10px;
+    margin: 10px;
     background-color: transparent;
     border: 2px solid darkcyan;
     color: white;
     font-size: medium;
     cursor: pointer;
 }
+
 button:hover {
     background-color: darkcyan;
 }
@@ -39,11 +56,13 @@ table {
     padding: 20px;
     width: 100%;
 }
-tr, td {
+
+tr,
+td {
     padding: 20px;
 }
 
-.quote{
+.quote {
     max-width: 30%;
     text-align: right;
     font-size: xx-large;
@@ -52,16 +71,20 @@ tr, td {
 }
 
 .card {
-    border: 2px solid gold;
     background-color: rgba(0, 0, 0, 0.8);
     margin: 10px;
     float: left;
     height: 100px;
-    width: 300px;
+    width: 90%;
+    max-width: 300px;
     display: flex;
     align-items: center;
     text-align: center;
     justify-content: center;
+}
+
+.card p {
+    color: white;
 }
 
 .detailCard {
@@ -69,8 +92,9 @@ tr, td {
     background-color: rgba(255, 215, 0, 0.8);
     margin: 10px;
     float: left;
-    height: 220px;
-    width: 400px;
+    min-height: 150px;
+    width: 90%;
+    max-width: 400px;
     text-align: center;
     justify-content: center;
 }
@@ -81,24 +105,40 @@ tr, td {
     font-size: 16px;
 }
 
-.detailName{
+.detailName {
     margin: 5px;
 }
 
-.logo{
+.logo {
     padding: 10px;
 }
 
-.cardBody{
+.cardBody {
     height: 90%;
     width: 95%;
     align-items: center;
 }
 
-.foot{
+.foot {
     height: 54px;
     display: flex;
     justify-content: space-between;
     background-color: #282c34;
     color: white;
+    align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .menu {
+        display: none;
+    }
+
+    .quote {
+        max-width: 100%;
+    }
+
+    .dropMenu {
+        display: block;
+    }
+
 }

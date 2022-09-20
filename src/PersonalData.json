@@ -10,7 +10,7 @@
             "value": "skill"
         },
         {
-            "label": "Projects",
+            "label": "Work & Projects",
             "value": "project"
         },
         {
@@ -177,7 +177,13 @@
             "type": "Card",
             "cards": [
                 {
+                    "name": "Developer at Innovaccer",
+                    "icon": "innovaccer.png",
+                    "description": "Full Stack Developer (ASE)\n Developed and enhanced the product UI & UX with React, JS & Redux following TDD approach.\nDesigned and improved existing API in Django framework & Python.\nWorked on yaml scripts to automate CI/CD pipeline of entire organization at gitlab.\nHandled support tickets from software vendors."
+                },
+                {
                     "name": "Calpha",
+                    "icon": "calpha.ico",
                     "description": "Project Client : InstaCal Engineers Pvt Ltd. \nCalpha is a python based application for Machine Calibration.\n It provides a platform to digitalize, track and automate the manual process by reducing human error and providing better synchronization."
                 },
                 {
