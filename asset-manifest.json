@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e52c7cf7.css",
-    "main.js": "/portfolio/static/js/main.42046216.js",
+    "main.js": "/portfolio/static/js/main.d958556a.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Autonomous Car.pdf": "/portfolio/static/media/Autonomous Car.f88aa2158aabfc9e7ad3.pdf",
     "static/media/numpy.png": "/portfolio/static/media/numpy.74ab255361b437eb3779.png",
@@ -12,6 +12,7 @@
     "static/media/ML iisc.jpeg": "/portfolio/static/media/ML iisc.65afa76dab5ccf2f0e76.jpeg",
     "static/media/linux.png": "/portfolio/static/media/linux.b79d9a382fd8984cff12.png",
     "static/media/Hackathon.jpeg": "/portfolio/static/media/Hackathon.7ee98b364975e11d6d00.jpeg",
+    "static/media/calpha.ico": "/portfolio/static/media/calpha.7ba504e5eca876ff27ab.ico",
     "static/media/bg.jpg": "/portfolio/static/media/bg.716be8ffea8b55e5ebaa.jpg",
     "static/media/python.png": "/portfolio/static/media/python.2971f8ca9ea7f8f9667e.png",
     "static/media/scikit.png": "/portfolio/static/media/scikit.b475a721594f9fd32863.png",
@@ -33,11 +34,11 @@
     "static/media/npm.png": "/portfolio/static/media/npm.5904c46fdce9a3192c3b.png",
     "index.html": "/portfolio/index.html",
     "main.e52c7cf7.css.map": "/portfolio/static/css/main.e52c7cf7.css.map",
-    "main.42046216.js.map": "/portfolio/static/js/main.42046216.js.map",
+    "main.d958556a.js.map": "/portfolio/static/js/main.d958556a.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e52c7cf7.css",
-    "static/js/main.42046216.js"
+    "static/js/main.d958556a.js"
   ]
 }
