@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3d8574f9.css",
-    "main.js": "/portfolio/static/js/main.e5ab98cc.js",
+    "main.css": "/portfolio/static/css/main.e52c7cf7.css",
+    "main.js": "/portfolio/static/js/main.42046216.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Autonomous Car.pdf": "/portfolio/static/media/Autonomous Car.f88aa2158aabfc9e7ad3.pdf",
     "static/media/numpy.png": "/portfolio/static/media/numpy.74ab255361b437eb3779.png",
@@ -32,12 +32,12 @@
     "static/media/keras.png": "/portfolio/static/media/keras.b98fa24d0d5a0f9f1284.png",
     "static/media/npm.png": "/portfolio/static/media/npm.5904c46fdce9a3192c3b.png",
     "index.html": "/portfolio/index.html",
-    "main.3d8574f9.css.map": "/portfolio/static/css/main.3d8574f9.css.map",
-    "main.e5ab98cc.js.map": "/portfolio/static/js/main.e5ab98cc.js.map",
+    "main.e52c7cf7.css.map": "/portfolio/static/css/main.e52c7cf7.css.map",
+    "main.42046216.js.map": "/portfolio/static/js/main.42046216.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d8574f9.css",
-    "static/js/main.e5ab98cc.js"
+    "static/css/main.e52c7cf7.css",
+    "static/js/main.42046216.js"
   ]
 }
