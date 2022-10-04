@@ -26,3 +26,14 @@ The following keys of the JSON file are for the following reasons:
     - Card type has an array of objects with a mandotary field name. It has additional fields like description, url (name of the file or the http/https URL) and icon.
 
 - SocialMedia: It is to display the right footer along with social media links having an array of objects with keys label, link and icon.
+
+
+## Steps to Deploy
+
+Edit the [package.json](https://github.com/ShreyasSingri/portfolio/blob/main/package.json) file parameter of homepage and profie it in the format of https://<user_id>.github.io/<repo_name>
+
+Then run the following command to deploy
+
+```
+npm run deploy
+```
