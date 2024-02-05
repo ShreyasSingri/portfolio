@@ -29,8 +29,8 @@
             "subtitle": "I am Shreyas S.M",
             "table": [
                 [
-                    "Full Stack Developer",
-                    "“Jack of all trades is a master of none, but oftentimes better than a master of one.”"
+                    "Vice President of Engineering",
+                    "MoneyFactory AI"
                 ]
             ],
             "download": {
@@ -50,6 +50,11 @@
                     "name": "Redux",
                     "icon": "redux.png",
                     "url": "https://redux.js.org"
+                },
+                {
+                    "name": "Node.js",
+                    "icon": "node.jpg",
+                    "url": "https://nodejs.org/en/about"
                 },
                 {
                     "name": "JavaScript",
@@ -90,6 +95,11 @@
                     "name": "Netlify",
                     "icon": "netlify.png",
                     "url": "https://www.netlify.com"
+                },
+                {
+                    "name": "Mongo DB",
+                    "icon": "mongo.png",
+                    "url": "https://www.mongodb.com/"
                 },
                 {
                     "name": "SQL",
@@ -177,9 +187,19 @@
             "type": "Card",
             "cards": [
                 {
+                    "name": "VP-Engineering at MoneyFactory AI",
+                    "icon": "moneyfactory.png",
+                    "description": "Vice President of Engineering\n10/2023 - Present\n Represnted the technical end of the company in investestment pitch to SucSEED Venture Partners.\nDesigned & implemented architucture for subscription modal & assisted investing mode.\nDeployment and maintainace of AWS servers for the MERN project and the python AI engine.\nDesigned CRON jobs for automating the requirenments of AI prediction engine."
+                },
+                {
+                    "name": "Developer at MoneyFactory AI",
+                    "icon": "moneyfactory.png",
+                    "description": "Full Stack Developer \n12/2022 - 10/2023\n Enhancement and development of features in MERN stack.\nProvided cross platform API's for Web and Android app support.\nIntegration of Whatsapp, Smallcase, rayzorpay & multiple investment brokers (5paisa, Zerodha, Fryers & AngelOne) services.\nImplemented Auth token for user login security."
+                },
+                {
                     "name": "Developer at Innovaccer",
                     "icon": "innovaccer.png",
-                    "description": "Full Stack Developer (ASE)\n Developed and enhanced the product UI & UX with React, JS & Redux following TDD approach.\nDesigned and improved existing API in Django framework & Python.\nWorked on yaml scripts to automate CI/CD pipeline of entire organization at gitlab.\nHandled support tickets from software vendors."
+                    "description": "Full Stack Developer (ASE)\n 9/2021- 11/2022\n Developed and enhanced the product UI & UX with React, JS & Redux following TDD approach.\nDesigned and improved existing API in Django framework & Python.\nWorked on yaml scripts to automate CI/CD pipeline of entire organization at gitlab.\nHandled support tickets from software vendors."
                 },
                 {
                     "name": "Calpha",
